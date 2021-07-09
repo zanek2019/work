@@ -1,0 +1,4 @@
+import telnetlib
+telnetlib.Telnet
+import virus
+
